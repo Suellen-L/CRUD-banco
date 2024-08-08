@@ -23,5 +23,5 @@ while (opcao!='6'):
     elif(opcao=='5'):
         deleteCliente.deletar()
     elif(opcao=='6'):
-       hh
+       l
     opcao=menu()
